@@ -69,6 +69,10 @@ return (
             </div>
           </div>
       </div>
+      <div className="attribution">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noopener noreferrer">Frontend Mentor</a>. 
+        Coded by <a href="https://github.com/AaX003" target="_blank" rel="noopener noreferrer">AXACODES</a>.
+    </div>
     </div>
   );
 }
