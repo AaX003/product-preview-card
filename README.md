@@ -4,7 +4,7 @@
 My version of the Product Preview Card project by Frontend Mentor. It's responsive and clean with a collapsible product details, smooth show/hide interactions, and mobility. 
 
 <div align="center">
-  <img src="https://s1.ezgif.com/tmp/ezgif-11bae6d24595aa18.gif" />
+  <img src="https://github.com/user-attachments/assets/5656b053-a714-4158-a284-a7e3ae167182" />
 </div>
 
 ---
