@@ -11,7 +11,7 @@ My version of the Product Preview Card project by Frontend Mentor. It's responsi
 - Add-to-cart button with icon
 
 ### Tools ⚒️
-- ***React** # Vite
+- ***React (Vite)**
 - ***CSS**
 
 ### Live Demo 🔗
