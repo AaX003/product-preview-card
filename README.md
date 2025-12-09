@@ -19,8 +19,9 @@ My version of the Product Preview Card project by Frontend Mentor. It's responsi
 ---
 
 ### Tools ⚒️
-- ***React (Vite)**
-- ***CSS**
+- **React (Vite)**
+- **HTML5**
+- **CSS**
 
 ---
 
